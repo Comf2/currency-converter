@@ -1,0 +1,11 @@
+D:\PersonalCode\currency-converter\currency-converter\bin\Debug\currency_converter.exe.config
+D:\PersonalCode\currency-converter\currency-converter\bin\Debug\currency_converter.exe
+D:\PersonalCode\currency-converter\currency-converter\bin\Debug\currency_converter.pdb
+D:\PersonalCode\currency-converter\currency-converter\obj\Debug\currency-converter.csproj.AssemblyReference.cache
+D:\PersonalCode\currency-converter\currency-converter\obj\Debug\currency-converter.csproj.SuggestedBindingRedirects.cache
+D:\PersonalCode\currency-converter\currency-converter\obj\Debug\currency_converter.Properties.Resources.resources
+D:\PersonalCode\currency-converter\currency-converter\obj\Debug\currency-converter.csproj.GenerateResource.cache
+D:\PersonalCode\currency-converter\currency-converter\obj\Debug\currency-converter.csproj.CoreCompileInputs.cache
+D:\PersonalCode\currency-converter\currency-converter\obj\Debug\currency_converter.exe
+D:\PersonalCode\currency-converter\currency-converter\obj\Debug\currency_converter.pdb
+D:\PersonalCode\currency-converter\currency-converter\obj\Debug\currency_converter.Form1.resources
